@@ -1,0 +1,16 @@
+http:
+  port: "8084"
+  
+protocol:
+    host: "worldtimeapi.org"
+    
+cloudHub:
+     username: "hossana"
+     password: "M0910623807$e"
+     workers: "1"
+     workerType: "Micro"
+     environment: "Sandbox"
+     muleVersion: "4.3.0"
+     applicationName: "worldtime-zone-api"
+     
+     
