@@ -38,7 +38,7 @@
                     <workerType>Micro</workerType>
                     <environment>Sandbox</environment>
                     <muleVersion>4.3.0</muleVersion>
-                    <applicationName>WorldtimeZone</applicationName>
+                    <applicationName>American-Time</applicationName>
                     <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
 				</configuration>
