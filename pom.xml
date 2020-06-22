@@ -32,13 +32,13 @@
 				<extensions>true</extensions>
 				<configuration>
 				 <cloudHubDeployment>
-                    <username>${username}</username>
-                    <password>${password}</password>         
-                    <workers>${workers}</workers>
-                    <workerType>${worker.type}</workerType>
-                    <environment>${environment}</environment>
-                    <muleVersion>${mule.version}</muleVersion>
-                    <applicationName>${application.name}</applicationName>
+                    <username>hossana</username>
+                    <password>M0910623807$e</password>         
+                    <workers>1</workers>
+                    <workerType>Micro</workerType>
+                    <environment>sandbox</environment>
+                    <muleVersion>4.3.0</muleVersion>
+                    <applicationName>worldtime-zone-api</applicationName>
                     </cloudHubDeployment>
 				</configuration>
 			</plugin>
